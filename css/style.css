@@ -14,5 +14,33 @@
 }
 
 h1 {
-    
+    text-align: center;
+    padding-top: 140px;
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: lighter;
+    font-size: 130px;
+    padding-right: 20px;
+}
+.half {
+    color: rgb(192, 188, 188);
+}
+.half2 {
+    color: rgba(0, 0, 0, 0.89);
+}
+.slogan {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 420px;
+    padding-left: 43px;
+}
+.nav-item {
+    font-family: 'Frank Ruhl Libre', serif;
+    font-size: 1.9rem;
+    letter-spacing: 0.2rem;
+    text-align: center;
+    padding: 20px;
+}
+.nav-item:hover {
+    text-decoration: underline;
 }
